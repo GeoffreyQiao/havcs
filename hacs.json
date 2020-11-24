@@ -1,0 +1,5 @@
+{
+  "name": "havcs",
+  "domains": "ble_monitor",
+  "iot_class": "local push"
+}
